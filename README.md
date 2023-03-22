@@ -10,7 +10,9 @@ I'm a software engineer with a wealth of experience and unique skills. I deeply 
 *   ✉️  You can contact me at [harmanbhullar08@gmail.com](mailto:harmanbhullar08@gmail.com)
 *   🚀  I'm currently working on [Bus Transport Services Web App](http://quickbus.com)
 *   🧠  I'm learning Angular
-*   🤝  I'm open to collaborating on Projects### Skills 
+*   🤝  I'm open to collaborating on Projects
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -33,4 +35,3 @@ I'm a software engineer with a wealth of experience and unique skills. I deeply 
                   
 <p align="left"><a href="https://www.github.com/harmanbhullar-1994" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harmanpreet-singh-36249a11b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<a href="https://github.com/harmanbhullar-1994" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanbhullar-1994&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
